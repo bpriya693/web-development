@@ -1,0 +1,76 @@
+h1 {
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+font-weight: normal;
+}
+
+body{
+	overflow: auto;
+}
+
+.boxed{
+	width: 120px;
+	height:45px;
+	color:#FAFAFA;
+	font-size: 18px;
+	display:inline-block;
+}
+
+
+#div1 {
+	display: inline-block;
+	font-size: 18px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+
+.blue{
+	background:#0099CC;
+}
+#div2 {
+	display: inline-block;
+	font-size: 18px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.boxed light blue{
+	width: 120px;
+	height:45px;
+	color:#FAFAFA;
+	font-size: 18px;
+	display:inline-block;
+}
+.center-block {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.light blue{
+	background:#0EB5E9;
+}
+#holder {
+	width:200px;
+}
+#Image1 {
+	float:left;
+	width:140px;
+	margin-right: 5px;
+}
+#Image2 {
+	float:left;
+	width:140px;
+	margin-right: 5px;
+}
+#Image3 {
+	float:left;
+	width:140px;
+	margin-right: 5px;
+}
+#Image4 {
+	float:left;
+	width:140px;
+	margin-right: 5px;
+}
+
